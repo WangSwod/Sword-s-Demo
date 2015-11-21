@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CompassDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="north">N</string>
+    <string name="south">S</string>
+    <string name="east">E</string>
+    <string name="west">W</string>
+</resources>
