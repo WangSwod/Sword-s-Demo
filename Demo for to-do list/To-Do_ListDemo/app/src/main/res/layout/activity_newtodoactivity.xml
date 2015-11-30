@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="5dp"
+    >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <com.example.sword_wang.to_do_listdemo.DeviderEditText
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id = "@+id/editText_ToDoList"
+            android:background="@drawable/edit_background"
+            android:gravity="top"
+            android:padding="5dp"
+
+            android:textColor="@color/edit_text_color"
+            android:textSize="15sp"
+
+
+
+            />
+    </ScrollView>
+
+</LinearLayout>
